@@ -16,7 +16,7 @@ On this site that I personally created, you will be able to view some of the wor
   <a><img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.Js" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Walk Me Through a Project</h3>
+<h3 align="left">Personal Projects</h3>
 <ul>
  
   <li><a href="https://github.com/JsperAga/AppointmentSystem">Appointment System Repository</a>
